@@ -1,0 +1,12 @@
+.input-container div
+{
+	width:40vw;
+
+}
+
+.input-container input:not(.gender,.sport)
+{
+	width:20vw;
+	height:5vh;
+}
+
